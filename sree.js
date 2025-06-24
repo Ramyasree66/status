@@ -6,5 +6,5 @@ function greetUser(name) {
 }
 
 // Call the function and display the result
-const message = greetUser("Ramya");
+const message = greetUser("Ram");
 console.log(message);
